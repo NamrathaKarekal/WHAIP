@@ -1,0 +1,300 @@
+Age,Blood Type,Gender,Type of Wound,Wound Size,Medication Taken,Time Taken to Heal(in days)
+20-30, B+, Male, Burns, Medium, No, 5-7 days
+20-30, AB+, Female, Burns, Medium, No, 5-7 days
+20-30, A+, Female, Cuts, Medium, No, 5-7 days
+20-30, A+, Female, Cuts, Medium, No, 5-7 days
+20-30, B+, Male, Internal (Bruise), Small, Yes, 1-2 days
+20-30, B+, Male, Cuts, Small, No, 3-5 days
+10-20, A+, Female, Cuts, Medium, No, 5-7 days
+10-20, B+, Male, Burns, Medium, Yes, 3-5 days
+10-20, A+, Female, Internal (Bruise), Medium, No, 5-7 days
+10-20, A+, Female, Internal (Bruise), Medium, No, 5-7 days
+20-30, O+, Male, Cuts, Large, Yes, 5-7 days
+10-20, A+, Female, Burns, Large, Yes, More than a week
+20-30, O+, Male, Cuts, Medium, No, 5-7 days
+10-20, AB+, Female, Burns, Large, No, More than a week
+20-30, B+, Male, Cuts, Medium, No, 5-7 days
+20-30, A+, Female, Cuts, Medium, No, 5-7 days
+20-30, O+, Female, Cuts, Small, No, 3-5 days
+20-30, B+, Female, Blisters, Medium, No, 5-7 days
+20-30, B+, Female, Blisters, Medium, Yes, 3-5 days
+20-30, B+, Female, Cuts, Small, No, 3-5 days
+20-30, B+, Female, Burns, Small, No, 3-5 days
+50-60, A+, Female, Cuts, Large, Yes, More than a week
+50-60, A+, Female, Cuts, Large, Yes, More than a week
+20-30, O+, Male, Burns, Large, Yes, More than a week
+20-30, B+, Female, Cuts, Medium, No, 5-7 days
+20-30, O+, Female, Burns, Medium, No, 5-7 days
+20-30, O+, Female, Cuts, Large, Yes, More than a week
+20-30, B+, Male, Cuts, Medium, Yes, 3-5 days
+20-30, O+, Male, Cuts, Medium, Yes, 3-5 days
+1-10, A+, Female, Accidental Injury, Small, No, 3-5 days
+20-30, O+, Male, Accidental Injury, Large, Yes, More than a week
+20-30, O+, Male, Burns, Medium, Yes, 3-5 days
+20-30, O+, Male, Cuts, Large, Yes, 5-7 days
+20-30, B+, Female, Cuts, Small, No, 3-5 days
+20-30, B+, Male, Burns, Large, No, More than a week
+20-30, A+, Female, Cuts, Large, No, More than a week
+20-30, A+, Female, Cuts, Medium, No, 5-7 days
+20-30, O+, Male, Cuts, Small, No, 1-2 days
+20-30, AB+, Male, Cuts, Small, No, 1-2 days
+20-30, AB+, Male, Burns, Medium, No, 5-7 days
+20-30, O+, Female, Internal (Bruise), Large, Yes, 5-7 days
+20-30, O+, Female, Cuts, Medium, No, 5-7 days
+1-10, O+, Male, Accidental Injury, Medium, No, 5-7 days
+30-40, A+, Male, Cuts, Medium, Yes, 3-5 days
+40-50, B+, Female, Blisters, Medium, No, 5-7 days
+20-30, AB+, Female, Cuts, Small, No, 3-5 days
+20-30, AB+, Female, Internal (Bruise), Large, No, More than a week
+60+, A+, Female, Internal (Bruise), Medium, Yes, 3-5 days
+60+, A+, Female, Accidental Injury, Medium, Yes, 3-5 days
+20-30, B+, Male, Accidental Injury, Medium, No, 5-7 days
+30-40, AB-, Male, Internal (Bruise), Medium, No, 5-7 days
+20-30, O-, Female, Blisters, Large, No, More than a week
+40-50, O+, Female, Blisters, Small, Yes, 1-2 days
+10-20, B-, Male, Blisters, Small, No, 1-2 days
+50-60, B-, Female, Internal (Bruise), Medium, No, 5-7 days
+60+, A+, Female, Blisters, Medium, Yes, 3-5 days
+40-50, AB+, Male, Cuts, Medium, Yes, 3-5 days
+30-40, B+, Female, Cuts, Medium, Yes, 3-5 days
+50-60, AB+, Female, Accidental Injury, Small, No, 3-5 days
+10-20, B+, Female, Accidental Injury, Large, Yes, 3-5 days
+40-50, AB+, Female, Burns, Small, Yes, 1-2 days
+10-20, AB+, Female, Accidental Injury, Large, Yes, 5-7 days
+60+, AB-, Male, Accidental Injury, Medium, Yes, 3-5 days
+20-30, B-, Male, Cuts, Medium, Yes, 3-5 days
+40-50, A+, Male, Accidental Injury, Large, No, More than a week
+30-40, AB-, Female, Cuts, Small, Yes, 1-2 days
+30-40, AB-, Female, Cuts, Medium, No, 5-7 days
+40-50, A+, Male, Cuts, Small, Yes, 1-2 days
+30-40, A-, Male, Blisters, Medium, No, 5-7 days
+30-40, AB-, Female, Cuts, Medium, Yes, 3-5 days
+1-10, B-, Female, Cuts, Large, Yes, More than a week
+10-20, B+, Male, Cuts, Medium, No, 5-7 days
+40-50, A+, Male, Accidental Injury, Medium, Yes, 3-5 days
+10-20, O-, Female, Blisters, Medium, No, 5-7 days
+20-30, AB-, Male, Cuts, Large, Yes, 5-7 days
+40-50, O-, Female, Internal (Bruise), Medium, No, 5-7 days
+1-10, O+, Male, Blisters, Small, Yes, 1-2 days
+60+, B-, Female, Cuts, Large, Yes, 5-7 days
+60+, AB+, Male, Internal (Bruise), Large, Yes, 5-7 days
+20-30, B-, Female, Blisters, Medium, Yes, 3-5 days
+1-10, O+, Female, Internal (Bruise), Large, Yes, 5-7 days
+1-10, AB-, Male, Cuts, Small, No, 3-5 days
+40-50, AB-, Female, Cuts, Medium, Yes, 3-5 days
+1-10, A-, Male, Cuts, Small, Yes, 1-2 days
+30-40, A-, Female, Blisters, Medium, Yes, 3-5 days
+50-60, A+, Male, Blisters, Medium, No, 5-7 days
+10-20, B+, Female, Accidental Injury, Small, Yes, 1-2 days
+30-40, AB+, Female, Blisters, Small, No, 3-5 days
+50-60, B-, Female, Cuts, Large, No, More than a week
+30-40, B+, Male, Accidental Injury, Medium, No, 5-7 days
+1-10, AB+, Female, Blisters, Medium, Yes, 3-5 days
+1-10, O-, Male, Blisters, Medium, No, 5-7 days
+50-60, A-, Male, Cuts, Small, Yes, 1-2 days
+40-50, A+, Female, Burns, Large, No, More than a week
+30-40, B+, Male, Burns, Medium, No, 5-7 days
+40-50, B+, Female, Blisters, Small, Yes, 1-2 days
+30-40, A+, Male, Blisters, Large, No, More than a week
+60+, B-, Female, Burns, Large, Yes, 5-7 days
+10-20, A-, Male, Burns, Large, No, More than a week
+20-30, O+, Female, Internal (Bruise), Medium, Yes, 3-5 days
+30-40, AB+, Male, Blisters, Small, No, 1-2 days
+40-50, B-, Female, Accidental injury, Large, Yes, More than a week
+50-60, A+, Male, Burns, Medium, No, 5-7 days
+60+, O-, Female, Cuts, Large, Yes, More than a week
+10-20, B+, Male, Blisters, Medium, Yes, 3-5 days
+20-30, AB-, Female, Burns, Small, No, 3-5 days
+30-40, A+, Male, Cuts, Large, Yes, More than a week
+40-50, O+, Female, Internal (Bruise), Medium, No, 5-7 days
+50-60, B-, Male, Blisters, Small, No, 1-2 days
+60+, AB+, Female, Accidental injury, Medium, Yes, 3-5 days
+10-20, A-, Female, Cuts, Large, No, More than a week
+20-30, B-, Male, Internal (Bruise), Medium, Yes, 3-5 days
+30-40, O-, Female, Blisters, Large, No, More than a week
+40-50, AB-, Male, Burns, Small, Yes, 1-2 days
+50-60, A+, Female, Cuts, Medium, No, 5-7 days
+60+, B+, Male, Accidental injury, Large, Yes, More than a week
+10-20, O-, Female, Blisters, Small, Yes, 1-2 days
+20-30, AB+, Male, Internal (Bruise), Large, No, More than a week
+30-40, B-, Female, Burns, Medium, Yes, 3-5 days
+40-50, A-, Male, Accidental injury, Large, Yes, More than a week
+50-60, O+, Female, Cuts, Medium, No, 5-7 days
+60+, AB-, Male, Internal (Bruise), Small, Yes, 1-2 days
+10-20, B+, Female, Blisters, Large, No, More than a week
+20-30, A+, Male, Burns, Small, Yes, 1-2 days
+30-40, O-, Female, Accidental injury, Medium, No, 5-7 days
+40-50, AB+, Male, Internal (Bruise), Large, Yes, More than a week
+50-60, B-, Female, Burns, Medium, No, 5-7 days
+60+, A-, Male, Blisters, Large, Yes, 5-7 days
+10-20, AB-, Female, Internal (Bruise), Medium, No, 5-7 days
+20-30, O+, Male, Accidental injury, Small, Yes, 1-2 days
+30-40, A+, Female, Cuts, Large, No, More than a week
+40-50, B-, Male, Blisters, Medium, Yes, 3-5 days
+50-60, AB+, Female, Burns, Small, No, 1-2 days
+60+, O-, Male, Cuts, Large, Yes, More than a week
+10-20, A+, Female, Internal (Bruise), Large, No, More than a week
+20-30, B+, Male, Blisters, Small, Yes, 1-2 days
+30-40, AB-, Female, Burns, Medium, No, 5-7 days
+40-50, A-, Male, Cuts, Large, Yes, More than a week
+50-60, O+, Female, Accidental injury, Small, Yes, 1-2 days
+60+, AB+, Male, Blisters, Medium, No, 5-7 days
+10-20, O-, Male, Burns, Large, Yes, More than a week
+20-30, A-, Female, Internal (Bruise), Medium, No, 5-7 days
+30-40, B+, Male, Cuts, Small, Yes, 1-2 days
+40-50, AB-, Female, Burns, Large, No, More than a week
+50-60, A+, Male, Accidental injury, Medium, Yes, 3-5 days
+60+, O-, Female, Internal (Bruise), Large, No, More than a week
+10-20, AB-, Male, Blisters, Small, Yes, 1-2 days
+20-30, A+, Female, Burns, Medium, No, 5-7 days
+30-40, O+, Male, Cuts, Large, Yes, More than a week
+40-50, B+, Female, Accidental injury, Medium, No, 5-7 days
+50-60, AB-, Male, Internal (Bruise), Small, Yes, 1-2 days
+60+, A-, Female, Burns, Medium, No, 5-7 days
+10-20, B-, Male, Cuts, Small, Yes, 1-2 days
+20-30, O-, Female, Internal (Bruise), Large, No, More than a week
+30-40, A+, Male, Blisters, Medium, Yes, 3-5 days
+40-50, AB+, Female, Burns, Small, No, 1-2 days
+50-60, B+, Male, Accidental injury, Large, Yes, More than a week
+60+, O+, Female, Internal (Bruise), Medium, No, 5-7 days
+10-20, A-, Male, Cuts, Large, Yes, 5-7 days
+20-30, AB+, Female, Blisters, Small, No, 1-2 days
+30-40, B-, Male, Burns, Medium, Yes, 3-5 days
+40-50, O-, Female, Cuts, Large, No, More than a week
+50-60, A+, Male, Internal (Bruise), Medium, Yes, 3-5 days
+60+, B+, Female, Blisters, Small, No, 1-2 days
+10-20, O-, Male, Accidental injury, Medium, Yes, 3-5 days
+20-30, AB-, Female, Burns, Large, No, More than a week
+30-40, A-, Male, Internal (Bruise), Small, Yes, 1-2 days
+40-50, B+, Female, Accidental injury, Medium, No, 5-7 days
+50-60, AB+, Male, Burns, Medium, Yes, 3-5 days
+60+, O-, Female, Blisters, Large, No, More than a week
+10-20, A+, Male, Burns, Small, Yes, 1-2 days
+20-30, B-, Female, Internal (Bruise), Medium, No, 5-7 days
+30-40, O+, Male, Cuts, Large, Yes, More than a week
+40-50, AB-, Female, Blisters, Small, No, 3-5 days
+50-60, A-, Male, Accidental injury, Medium, Yes, 3-5 days
+60+, B+, Female, Internal (Bruise), Large, No, More than a week
+10-20, O+, Male, Cuts, Small, Yes, 1-2 days
+20-30, A-, Female, Burns, Medium, No, 5-7 days
+30-40, B+, Male, Accidental injury, Large, Yes, More than a week
+40-50, AB+, Female, Internal (Bruise), Medium, No, 5-7 days
+50-60, O-, Male, Blisters, Small, Yes, 1-2 days
+60+, A+, Female, Burns, Large, Yes, 5-7 days
+10-20, B-, Male, Cuts, Medium, No, 5-7 days
+20-30, AB-, Female, Burns, Large, Yes, 5-7 days
+30-40, O+, Male, Internal (Bruise), Small, Yes, 1-2 days
+40-50, A-, Female, Accidental injury, Medium, No, 5-7 days
+50-60, B+, Male, Blisters, Large, Yes, 5-7 days
+60+, AB-, Female, Burns, Medium, Yes, 3-5 days
+10-20, O-, Male, Internal (Bruise), Small, Yes, 1-2 days
+20-30, A+, Female, Blisters, Medium, Yes, 3-5 days
+30-40, B-, Male, Accidental injury, Large, Yes, 5-7 days
+40-50, AB+, Female, Cuts, Medium, Yes, 3-5 days
+50-60, O+, Male, Burns, Small, Yes, 1-2 days
+60+, A-, Female, Internal (Bruise), Large, Yes, 5-7 days
+10-20, AB+, Male, Blisters, Medium, Yes, 3-5 days
+20-30, O-, Female, Cuts, Large, Yes, 5-7 days
+30-40, A+, Male, Internal (Bruise), Medium, Yes, 3-5 days
+40-50, B+, Female, Accidental injury, Small, Yes, 1-2 days
+50-60, AB-, Male, Burns, Large, No, More than a week
+60+, O+, Female, Internal (Bruise), Medium, Yes, 3-5 days
+10-20, A-, Male, Blisters, Small, No, 1-2 days
+20-30, B+, Female, Burns, Medium, Yes, 3-5 days
+30-40, O-, Male, Accidental injury, Large, No, More than a week
+40-50, AB+, Female, Internal (Bruise), Small, Yes, 1-2 days
+50-60, A+, Male, Burns, Medium, Yes, 3-5 days
+60+, B-, Female, Accidental injury, Large, Yes, 5-7 days
+10-20, AB-, Male, Internal (Bruise), Medium, Yes, 3-5 days
+20-30, O+, Female, Blisters, Small, Yes, 1-2 days
+30-40, A-, Male, Burns, Large, No, More than a week
+40-50, B+, Female, Accidental injury, Medium, Yes, 3-5 days
+50-60, AB+, Male, Internal (Bruise), Small, No, 3-5 days
+60+, O-, Female, Burns, Large, Yes, 5-7 days
+10-20, A+, Male, Accidental injury, Medium, Yes, 3-5 days
+20-30, B-, Female, Internal (Bruise), Small, Yes, 1-2 days
+30-40, O+, Male, Burns, Large, No, More than a week
+40-50, AB-, Female, Blisters, Medium, Yes, 3-5 days
+50-60, A-, Male, Internal (Bruise), Large, No, More than a week
+60+, B+, Female, Burns, Small, Yes, 1-2 days
+10-20, O-, Male, Blisters, Medium, Yes, 3-5 days
+20-30, A+, Female, Internal (Bruise), Large, Yes, 5-7 days
+30-40, B-, Male, Accidental injury, Small, No, 1-2 days
+40-50, AB+, Female, Burns, Medium, Yes, 3-5 days
+50-60, O+, Male, Internal (Bruise), Large, No, More than a week
+60+, A-, Female, Blisters, Small, Yes, 1-2 days
+10-20, B+, Male, Burns, Medium, Yes, 3-5 days
+20-30, O-, Female, Accidental injury, Large, Yes, 5-7 days
+30-40, A+, Male, Internal (Bruise), Medium, Yes, 3-5 days
+40-50, B-, Female, Blisters, Small, Yes, 1-2 days
+50-60, AB+, Male, Burns, Large, No, More than a week
+60+, O+, Female, Internal (Bruise), Medium, Yes, 3-5 days
+10-20, A-, Male, Accidental injury, Small, No, 1-2 days
+20-30, B+, Female, Burns, Medium, Yes, 3-5 days
+30-40, O-, Male, Internal (Bruise), Large, No, More than a week
+40-50, A+, Female, Blisters, Small, No, 3-5 days
+50-60, AB-, Male, Burns, Small, No, 1-2 days
+60+, B-, Female, Accidental injury, Large, Yes, 5-7 days
+10-20, O+, Male, Internal (Bruise), Small, No, 3-5 days
+20-30, A+, Female, Blisters, Small, Yes, 1-2 days
+30-40, B+, Male, Burns, Large, No, More than a week
+40-50, O-, Female, Accidental injury, Small, Yes, 1-2 days
+50-60, AB+, Male, Internal (Bruise), Small, No, 3-5 days
+60+, A-, Female, Burns, Large, Yes, 5-7 days
+10-20, B-, Male, Blisters, Small, No, 3-5 days
+20-30, AB-, Female, Internal (Bruise), Large, Yes, 5-7 days
+30-40, O+, Male, Burns, Small, No, 1-2 days
+40-50, A-, Female, Accidental injury, Small, Yes, 1-2 days
+50-60, B+, Male, Internal (Bruise), Large, No, More than a week
+60+, AB+, Female, Burns, Small, Yes, 1-2 days
+10-20, O-, Male, Accidental injury, Small, No, 3-5 days
+20-30, A+, Female, Internal (Bruise), Small, Yes, 1-2 days
+30-40, B-, Male, Blisters, Large, No, More than a week
+40-50, AB-, Female, Burns, Small, Yes, 1-2 days
+50-60, O+, Male, Accidental injury, Small, No, 1-2 days
+60+, A-, Female, Internal (Bruise), Large, Yes, 5-7 days
+10-20, B+, Male, Burns, Small, No, 1-2 days
+20-30, AB+, Female, Internal (Bruise), Small, Yes, 1-2 days
+30-40, O-, Male, Accidental injury, Large, No, More than a week
+40-50, A+, Female, Blisters, Small, No, 1-2 days
+50-60, B-, Male, Burns, Small, No, 1-2 days
+60+, AB-, Female, Internal (Bruise), Large, Yes, 5-7 days
+10-20, A+, Male, Burns, Large, Yes, 5-7 days
+20-30, O+, Female, Internal (Bruise), Small, No, 1-2 days
+30-40, AB+, Male, Cuts, Small, Yes, 1-2 days
+40-50, B-, Female, Blisters, Small, No, 3-5 days
+50-60, A-, Male, Accidental injury, Large, Yes, 5-7 days
+60+, O-, Female, Burns, Large, No, More than a week
+10-20, B+, Male, Internal (Bruise), Small, Yes, 1-2 days
+20-30, AB-, Female, Burns, Small, No, 1-2 days
+30-40, A+, Male, Cuts, Large, No, More than a week
+40-50, O+, Female, Blisters, Small, Yes, 1-2 days
+50-60, AB-, Male, Internal (Bruise), Small, No, 3-5 days
+60+, B+, Female, Accidental injury, Small, Yes, 1-2 days
+10-20, O-, Male, Blisters, Small, No, 3-5 days
+20-30, B-, Female, Accidental injury, Large, Yes, 5-7 days
+30-40, AB+, Male, Internal (Bruise), Large, No, More than a week
+40-50, A+, Female, Burns, Small, No, 3-5 days
+50-60, O+, Male, Blisters, Large, Yes, 5-7 days
+60+, AB-, Female, Internal (Bruise), Small, No, 3-5 days
+10-20, A-, Female, Cuts, Large, No, More than a week
+20-30, O+, Male, Burns, Small, No, 3-5 days
+30-40, B-, Female, Internal (Bruise), Small, Yes, 1-2 days
+40-50, AB+, Male, Cuts, Large, No, More than a week
+50-60, A-, Female, Blisters, Small, Yes, 1-2 days
+60+, O-, Male, Accidental injury, Large, No, More than a week
+10-20, B+, Female, Burns, Small, No, 3-5 days
+20-30, AB+, Male, Internal (Bruise), Small, No, 3-5 days
+30-40, O+, Female, Accidental injury, Large, No, More than a week
+40-50, A+, Male, Burns, Small, No, 3-5 days
+50-60, B-, Female, Blisters, Large, No, More than a week
+60+, AB+, Male, Cuts, Small, Yes, 1-2 days
+10-20, O-, Female, Accidental injury, Small, Yes, 1-2 days
+20-30, B+, Male, Blisters, Small, No, 3-5 days
+30-40, A-, Female, Internal (Bruise), Large, No, More than a week
+40-50, O+, Male, Accidental injury, Small, No, 3-5 days
+50-60, AB-, Female, Cuts, Small, No, 3-5 days
+60+, B-, Female, Burns, Small, Yes, 1-2 days
+10-20, A+, Male, Internal (Bruise), Medium, Yes, 3-5 days
+20-30, O-, Female, Blisters, Large, No, More than a week
+15-25, A-, Female, Cuts, Small, Yes, 1-2 days

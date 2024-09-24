@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analytics</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #70d670, #fff);
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            margin: 0;
+            flex-direction: column;
+            padding-top: 40px;
+        }
+
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+            max-width: 900px;
+            width: 100%;
+            text-align: center;
+        }
+
+        h1 {
+            color: #70ce6d;
+            font-size: 33px;
+            margin-bottom: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            background-color: #70ce6d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #55b351;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Data Analytics</h1>
+        
+        <img src="/static/wound_size_rank_distribution.png" alt="Wound Size Rank Distribution">
+        <img src="/static/age_vs_time_taken_violin_plot.png" alt="Age vs Time Taken (Violin Plot)">
+        <img src="/static/gender_countplot.png" alt="Gender Count Plot">
+        <img src="/static/pairplot.png" alt="Pairplot">
+        <img src="/static/time_taken_to_heal_score_distribution.png" alt="Time Taken to Heal Score Distribution">
+        <img src="/static/wound_type_vs_time_boxplot.png" alt="Wound Type vs Time Boxplot">
+
+        <a href="/">Back to Prediction</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #70d670, #fff);
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150vh;
+            margin: 0;
+        }
+
+        .container {
+            background-color: white;
+            padding: 50px;
+            border-radius: 15px;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+            max-width: 500px;
+            width: 100%;
+            text-align: center;
+            animation: fadeIn 1s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        h1 {
+            color: #70ce6d;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+
+        .info-section {
+            background-color: #eeebf5;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+            font-size: 16px;
+            text-align: left;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            background-color: #70ce6d;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #55b351;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Result section that will display the prediction -->
+        <h1>Wound Healing Prediction</h1>
+        <div class="info-section">
+            <h2>Your Prediction:</h2>
+            <p>The predicted time for wound healing is <strong>{{ prediction }}</strong>.</p>
+        </div>
+
+        <!-- Information about wound healing -->
+        <div class="info-section">
+            <h2>About Wound Healing</h2>
+            <p>Wound healing depends on various factors like wound size, type, age, and medications. Following proper care and consulting a doctor can ensure a smooth healing process.</p>
+            <p>If the wound does not heal within the predicted timeframe, please consult a healthcare provider.</p>
+        </div>
+
+        <!-- Back button -->
+        <a href="/">Go back</a>
+    </div>
+</body>
+</html>

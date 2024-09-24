@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wound Healing Time Prediction</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #70d670, #fff);
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 150vh;
+            margin: 0;
+            padding-top: 100px;
+        }
+
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+            max-width: 420px;
+            width: 100%;
+            transition: transform 0.3s ease;
+            margin-top: -8%;
+        }
+
+        .container:hover {
+            transform: scale(1.03);
+        }
+
+        h1 {
+            text-align: center;
+            color: #70ce6d;
+            font-size: 33px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #70ce6d; 
+            font-size: 25px;
+            margin-bottom: 20px;
+        }
+
+        label {
+            font-weight: bold;
+            margin-top: 10px;
+            display: block;
+            font-size: 14px;
+        }
+
+        select, input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 8px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            background-color: #70ce6d; 
+            color: white;
+            padding: 12px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #55b351;
+        }
+
+        /* Button styling for "View Data Analytics" */
+        .analytics-button {
+            display: inline-block;
+            padding: 12px 120px;
+            background-color: #70ce6d; 
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: none;
+            cursor: pointer;
+            text-align: center;
+        }
+
+        .analytics-button:hover {
+            background-color: #55b351;
+        }
+
+        .analytics-button:focus {
+            outline: none;
+            background-color: #55b351; 
+        }
+
+        /* Optional: Centering the button below content */
+        .button-container {
+            text-align: center;
+            margin-top: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Predict Wound Healing Time</h1>
+        <h2>PES1PG23CA341</h2>
+        <form action="/predict" method="POST">
+            <label for="age">Age:</label>
+            <select id="age" name="age" required>
+                <option value="">Select Age Range</option>
+                <option value="1-10">1-10</option>
+                <option value="10-20">10-20</option>
+                <option value="20-30">20-30</option>
+                <option value="30-40">30-40</option>
+                <option value="40-50">40-50</option>
+                <option value="60+">60+</option>
+            </select><br>
+
+            <label for="blood_type">Blood Type:</label>
+            <select id="blood_type" name="blood_type" required>
+                <option value="">Select Blood Type</option>
+                <option value="A+">A+</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B-">B-</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+            </select><br>
+
+            <label for="gender">Gender:</label>
+            <select id="gender" name="gender" required>
+                <option value="">Select Gender</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            </select><br>
+
+            <label for="wound_type">Type of Wound:</label>
+            <select id="wound_type" name="wound_type" required>
+                <option value="">Select Wound Type</option>
+                <option value="Cuts">Cut</option>
+                <option value="Burns">Burn</option>
+                <option value="Accidental injury">Accidental Injuries</option>
+                <option value="Blisters">Blisters</option>
+                <option value="Internal (Bruise)">Internal Bruise</option>
+            </select><br>
+
+            <label for="wound_size">Wound Size:</label>
+            <select id="wound_size" name="wound_size" required>
+                <option value="">Select Wound Size</option>
+                <option value="Small">Small</option>
+                <option value="Medium">Medium</option>
+                <option value="Large">Large</option>
+            </select><br>
+            
+            <label for="medication">Medication Taken:</label>
+            <select id="medication" name="medication" required>
+                <option value="">Select Medication</option>
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select><br>
+
+            <input type="submit" value="Predict Healing Time">
+        </form>
+
+        <!-- Button container to center the button below the form -->
+        <div class="button-container">
+            <a href="/analytics" class="analytics-button">View Data Analytics</a>
+        </div>
+    </div>
+</body>
+</html>

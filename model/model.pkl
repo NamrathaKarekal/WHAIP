@@ -1,0 +1,18 @@
+# Train the model and save it
+def train_model():
+    # Preprocess the data
+    xtrain, xtest, ytrain, ytest = preprocess_data(df)
+    
+    # Initialize and train the model
+    model = RandomForestRegressor()
+    model.fit(xtrain, ytrain)
+
+    # Save the trained model to model.pkl
+    with open("model/model.pkl", "wb") as model_file:
+        pickle.dump(model, model_file)  # Save the trained model to model.pkl
+
+    # Save other preprocessing objects (optional, if needed for inference)
+    with open("model/label_encoder.pkl", "wb") as le_file:
+        pickle.dump(le, le_file)
+    with open("model/scaler.pkl", "wb") as scaler_file:
+        pickle.dump(mm, scaler_file)
